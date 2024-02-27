@@ -9,4 +9,7 @@
 
 - <center>stats:</center>
   
-![ogabifernandes's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabisoftware&show_icons=true&theme=ambient_gradient)
+<div align="flex-start">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=wizzersoftware&show_icons=true&theme=rose_pine&hide_border=true"/> 
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizzersoftware&layout=compact&theme=rose_pine&hide_border=true"/>
+</div>
